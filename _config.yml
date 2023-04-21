@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Giuliano Martinelli"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Giuliano Martinelli"
 description              : &description "personal description"
@@ -102,13 +102,13 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/giuliano-martinelli-20a9b2193/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           : "https://www.linkedin.com/in/giuliano-martinelli-20a9b2193/"
+  tumblr           : 
   twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
