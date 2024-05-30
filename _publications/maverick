@@ -2,10 +2,9 @@
 title: "Maverick: Efficient and Accurate Coreference Resolution Defying Recent Trends"
 authors: publications
 collection: publications
-permalink: /publication/maverick
+permalink: 'http://academicpages.github.io/files/paper1.pdf'
 excerpt: '**Giuliano Martinelli**,Edoardo Barba, Roberto Navigli.'
 date: 2024-08-11
 venue: ACL 2024, Bangkok, Thailand
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
